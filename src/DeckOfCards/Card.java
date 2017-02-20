@@ -2,7 +2,7 @@ package DeckOfCards;
 
 /**
  * Representation of a card. 1 to 13 (J, Q, K), 4 suits on each card, represented as an enum.
- * Overriden equals and hashcode for our ad-hoc test harness, however these are not really needed and can be removed
+ * Overriden equals and hashcode for our ad-hoc test harness, however these are not really needed and can be removed should we decide on a new test framework
  *
  */
 public class Card {

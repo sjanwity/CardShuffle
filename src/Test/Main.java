@@ -14,7 +14,7 @@ public class Main {
 	public static void main(String[] args) {
 		Deck deck = new Deck();
 		testDuration(deck);
-		testCardLocation(deck, new Card(Suit.SPADE, 1), 10);
+		testCardLocation(deck, new Card(Suit.SPADE, 1), 10); //ace of spades
 
 		
 	}
